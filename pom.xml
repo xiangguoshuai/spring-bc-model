@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-
+ 
 	<modules>
 		<module>z-boot-common-8084</module>
 		<module>z-boot-consumer-user-8083</module>
